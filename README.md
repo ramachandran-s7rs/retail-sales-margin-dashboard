@@ -20,6 +20,6 @@ While total retail revenue reached **$12.64M** across 51,290+ orders, overall ne
 * **Enforce a 20% Discount Cap:** Require manager approval for discounts above 20% (What-If simulation shows capping discounts at 20% protects **$2.07M+** in net profit).
 * **Reprice & Audit Tables:** Remove blanket promotional discounts on Tables and renegotiate shipping/supplier costs to restore positive unit economics.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](https://github.com/ramachandran-s7rs/retail-sales-margin-dashboard/blob/83e94fd83542207a18551effe3cdccf29b672383/Screenshot%202026-11-26%20111145.png)
 
 URL : https://public.tableau.com/app/profile/ramachandran.s8836/viz/RetailSalesMarginOptimizationDashboard/Dashboard1
